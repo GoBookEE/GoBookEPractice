@@ -5,6 +5,6 @@ public class Controller {
 	private String sangjin;
 	private String changgyu;
 	public static void member() {
-		System.out.println("우리팀 화이팅");
+		System.out.println("우리팀 화이팅 너무 어려워 살려줘");
 	}
 }
